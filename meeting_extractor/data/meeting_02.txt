@@ -1,0 +1,7 @@
+Sneha: Let's go through the sprint status.
+Vikram: The login bug is fixed. I need to write the test cases for it by end of the week.
+Sneha: Okay. Ishaan, could you deploy the build to staging on 12th October?
+Ishaan: Yes, I'll deploy the build to staging.
+Sneha: Vikram, please email the client about the delay today.
+Vikram: Will do. I will also update the documentation next Friday.
+Sneha: We should schedule a retrospective.

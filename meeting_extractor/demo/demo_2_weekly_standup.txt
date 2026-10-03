@@ -1,0 +1,9 @@
+[09:00] Rahul: Morning team. Let's do a quick status check.
+[09:01] Neha: The payment module is almost done. I'll finish the refund API tomorrow.
+[09:02] Rahul: Nice. Neha, please update the API documentation by September 20.
+[09:03] Neha: Okay, will do.
+[09:04] Arun: I need to fix the login timeout bug in 2 days.
+[09:05] Rahul: Arun, could you also test the mobile app on Android before the end of the week?
+[09:06] Arun: Yes, I'll test the mobile app on Android this Friday.
+[09:07] Rahul: Great. I will send the sprint report to management by end of the month.
+[09:08] Neha: We need to discuss the server costs sometime.

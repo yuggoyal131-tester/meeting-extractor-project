@@ -1,0 +1,6 @@
+{"meeting_date": "2026-10-01", "action_items": [
+ {"task": "Send the revised budget to finance", "owner": "Arjun", "deadline": "2026-10-02"},
+ {"task": "Book the venue for the launch event", "owner": "Meera", "deadline": "2026-10-09"},
+ {"task": "Update the pricing page", "owner": "Rohan", "deadline": "2026-10-05"},
+ {"task": "Share the slides with the team", "owner": "Meera", "deadline": "2026-10-02"},
+ {"task": "Review the vendor contract", "owner": null, "deadline": null}]}

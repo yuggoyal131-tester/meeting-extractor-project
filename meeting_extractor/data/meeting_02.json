@@ -1,0 +1,6 @@
+{"meeting_date": "2026-10-05", "action_items": [
+ {"task": "Write the test cases for the login bug", "owner": "Vikram", "deadline": "2026-10-09"},
+ {"task": "Deploy the build to staging", "owner": "Ishaan", "deadline": "2026-10-12"},
+ {"task": "Email the client about the delay", "owner": "Vikram", "deadline": "2026-10-05"},
+ {"task": "Update the documentation", "owner": "Vikram", "deadline": "2026-10-16"},
+ {"task": "Schedule a retrospective", "owner": null, "deadline": null}]}

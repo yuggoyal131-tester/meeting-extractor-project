@@ -1,0 +1,9 @@
+Anita: Welcome everyone to the website redesign kickoff.
+Karan: Thanks Anita. Um, I think the homepage layout is the biggest piece of work.
+Anita: Agreed. Karan, please send the first wireframes to the client by Friday.
+Karan: Sure, I'll do that. I will also prepare the color palette options next Monday.
+Divya: We need to review the old site content before we start writing.
+Anita: Divya, can you review the existing blog posts by October 8?
+Divya: Yes, I can do that.
+Sameer: We should also book a photographer for the product shoot.
+Anita: Good point. Thanks everyone, that's all for today.
